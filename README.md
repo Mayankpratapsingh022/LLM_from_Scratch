@@ -1,5 +1,4 @@
 ## Coding a LLM from Scratch
 
-#### Reference book
 
-![book](https://github.com/user-attachments/assets/ab4a3a71-cff2-4494-8ff0-b0be78af3c75)
+![llm_from_sratch](https://github.com/user-attachments/assets/879e097c-b9d1-4284-b173-405ca8457848)
