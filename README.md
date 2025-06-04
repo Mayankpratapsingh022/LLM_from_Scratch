@@ -4,6 +4,10 @@
 ![llm_from_sratch](https://github.com/user-attachments/assets/879e097c-b9d1-4284-b173-405ca8457848)
 This repository provides a step-by-step implementation of a **Large Language Model (LLM) from scratch**, covering **data preparation, model building, pretraining, and fine-tuning**. The project includes notebooks and scripts to help understand the complete process of training an LLM.
 
+# MathGPT
+![MathGPT](https://github.com/user-attachments/assets/199ebf74-8f57-48d5-9896-0e11ceb2013a)
+
+
 ## 📌 Project Overview
 
 The project follows **three main stages** in developing an LLM:
